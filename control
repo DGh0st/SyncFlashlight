@@ -1,0 +1,9 @@
+Package: com.dgh0st.syncflashlight
+Name: SyncFlashlight
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.golddavid.flash
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Sync the flashlight used by Flipswitch and Flash.
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
